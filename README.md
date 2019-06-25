@@ -10,7 +10,7 @@ Project Summary:
 * View ipython notebook for NLP portion [here](link).
 
 
-[Kickstarter Pledge Funding Prediction](link): Using Classification methods to predict success or failure of a Kickstarter campaign. View ipython notebook [here](link).
+[Kickstarter Pledge Funding Prediction](link): Using Classification methods to predict success or failure of a Kickstarter campaign. View ipython notebook [here](https://github.com/carrie2010210/dsp_qiu/blob/master/Kickstarter%20Project%2003-Copy1.ipynb).
 
 [Blockbuster or Not](link): Using Linear Regression methods to predict box office success. View ipython notebook [here](link).
 
