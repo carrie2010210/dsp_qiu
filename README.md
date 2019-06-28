@@ -5,7 +5,7 @@ Here is a selection of project I have completed during the course of Metis Datas
 Project Summary:
 
 [Songwriter's Sketchpad](https://github.com/carrie2010210/dsp_qiu/blob/master/Songwriter's%20Sketchpad.ipynb): Multi-featured application to help songwriters in their creative process. This project is done using Convolution Neural Network in the form of an Autoencoder, and cosine similarity for recommendation engine. For the Natural Language Processing portion for Lyrics Analyzer, please view [Songwriter's Sketchpad: Lyrics](link).
-* View recording of final presentation on Youtube [here](link).
+* View recording of final presentation on Youtube [here](https://youtu.be/4w32wVGfqFk).
 * View ipython notebook for final project [here](https://github.com/carrie2010210/dsp_qiu/blob/master/Songwriter's%20Sketchpad.ipynb).
 * View ipython notebook for NLP portion [here](link).
 
