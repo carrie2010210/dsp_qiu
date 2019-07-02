@@ -4,10 +4,8 @@ Here is a selection of project I have completed during the course of Metis Datas
 
 Project Summary:
 
-[Songwriter's Sketchpad](https://youtu.be/4w32wVGfqFk): Multi-featured application to help songwriters in their creative process. This project is done using Convolution Neural Network in the form of an Autoencoder, and cosine similarity for recommendation engine. For the Natural Language Processing portion for Lyrics Analyzer, please view [Songwriter's Sketchpad: Lyrics](link).
+[Songwriter's Sketchpad](https://youtu.be/4w32wVGfqFk): Multi-featured application to help songwriters in their creative process. This project is done using Convolution Neural Network in the form of an Autoencoder, and cosine similarity for recommendation engine. For the lyrics analyzer, Natural Language Processing techniques are used.
 
-
-[Kickstarter Pledge Funding Prediction](link): Using Classification methods to predict success or failure of a Kickstarter campaign. View ipython notebook [here](https://github.com/carrie2010210/dsp_qiu/blob/master/Kickstarter%20Project%2003-Copy1.ipynb).
+[Kickstarter Pledge Funding Prediction](https://github.com/carrie2010210/dsp_qiu/blob/master/Kickstarter%20Project%2003-Copy1.ipynb): Using Classification methods to predict success or failure of a Kickstarter campaign. 
 
 [Blockbuster or Not](https://github.com/carrie2010210/dsp_qiu/blob/master/LinReg_Project.md): Using Linear Regression methods to predict box office success. 
-
